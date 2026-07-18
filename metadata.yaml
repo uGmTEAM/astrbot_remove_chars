@@ -1,0 +1,12 @@
+name: remove_chars
+version: 1.0.0
+author: YourName
+description: 移除 bot 输出消息中的指定字符
+dependencies: []
+priority: 0
+
+entry: main.py:RemoveCharsPlugin
+
+# 声明支持 aiocqhttp 平台
+support_platforms:
+  - aiocqhttp
