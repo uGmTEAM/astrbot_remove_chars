@@ -4,7 +4,7 @@
 
 <center>==============================================================</center>
 
-### Astrbot_Remove_Chars
+# Astrbot_Remove_Chars
 
 ## 效用：
 
